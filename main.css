@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+
+.head {
+    text-align: center;
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+    font-size: 10em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fff;
+}
+
+.form-main {
+    display: flex;
+    justify-content: center;
+}
+
+.result {
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+    font-size: 4em;
+    color: #fff;
+}
+
+.input {
+    height: 6.5vh;
+    width: 20vw;
+    font-size: 1em;
+    margin: 2vh;
+}
+
+.opp {
+    height: 6vh;
+    font-size: 1em;
+    width: 4vw;
+    font-size: 1.5em;
+}
+
+.btn {
+    padding: 2vh;
+    font-size: 1em;
+}
